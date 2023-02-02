@@ -1,0 +1,20 @@
+numpy == 1.19.1
+numba == 0.49
+pytest == 6.0.1
+keras == 2.7.0
+matplotlib == 3.3.4
+pandas == 1.2.4
+regrex == 2021.4.4
+nltk == 3.6.1
+wordcloud == 1.6.0
+textblob == 0.15.3
+gensim == 4.0.1
+tensorflow == 2.7.0
+pytorch == 1.8.1
+
+
+
+
+
+
+
