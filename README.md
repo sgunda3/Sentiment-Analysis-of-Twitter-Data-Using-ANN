@@ -4,9 +4,9 @@ To create a more accurate sentiment classification system, we propose combining 
 
 #prerequisites:
 
-Markup : 1. Jupyter Notebook
-         2. Microsoft excel
-         3. python >3.8
+*1 Jupyter Notebook
+*2 Microsoft excel
+*3 python >3.8
 
 
 #------Steps to run the code:-----
