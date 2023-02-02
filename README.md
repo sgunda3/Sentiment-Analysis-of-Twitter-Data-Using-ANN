@@ -9,7 +9,7 @@ To create a more accurate sentiment classification system, we propose combining 
 *  python >3.8
 
 
-# ------Steps to run the code:-----
+# Steps to run the code:
 
 1) download the dataset from the given link
 2) Download the required packages from requirements.txt
